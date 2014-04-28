@@ -7,7 +7,7 @@
  * handled by a callback to responsivewp_comment() which is
  * located in the functions.php file.
  *
- * Based on Wordpress' Twenty Twelve Theme
+ * Based on WordPress' Twenty Twelve Theme
  * https://wordpress.org/themes/twentytwelve
  *
  * @package WordPress

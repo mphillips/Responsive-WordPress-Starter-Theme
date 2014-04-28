@@ -2,7 +2,7 @@
 /**
  * The template used for displaying page content in page.php
  *
- * Based on Wordpress' Twenty Twelve Theme
+ * Based on WordPress' Twenty Twelve Theme
  * https://wordpress.org/themes/twentytwelve
  *
  * @package WordPress

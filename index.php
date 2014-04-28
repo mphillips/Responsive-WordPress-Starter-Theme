@@ -7,7 +7,7 @@
  * It is used to display a page when nothing more specific matches a query.
  * For example, it puts together the home page when no home.php file exists.
  *
- * Based on Wordpress' Twenty Twelve Theme
+ * Based on WordPress' Twenty Twelve Theme
  * https://wordpress.org/themes/twentytwelve
  *
  * @package WordPress

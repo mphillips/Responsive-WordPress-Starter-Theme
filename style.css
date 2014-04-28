@@ -3315,7 +3315,7 @@ span > object {
   margin-bottom: 0;
 }
 
-/* Wordpress Alignment ************************************/
+/* WordPress Alignment ************************************/
 .alignleft {
   float: left;
 }
@@ -3564,7 +3564,7 @@ article.page header {
 
 /* Gallery ************************************/
 /*
-  Gallery styles borrowed from Wordpress' Twenty Twelve Theme
+  Gallery styles borrowed from WordPress' Twenty Twelve Theme
   https://wordpress.org/themes/twentytwelve
 */
 .gallery {

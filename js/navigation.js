@@ -3,7 +3,7 @@
  *
  * Handles toggling the navigation menu for small screens.
  *
- * Borrowed from Wordpress' Twenty Twelve Theme
+ * Borrowed from WordPress' Twenty Twelve Theme
  * https://wordpress.org/themes/twentytwelve
  */
 

@@ -10,7 +10,7 @@
  * has tag.php for Tag archives, category.php for Category archives, and
  * author.php for Author archives.
  *
- * Based on Wordpress' Twenty Twelve Theme
+ * Based on WordPress' Twenty Twelve Theme
  * https://wordpress.org/themes/twentytwelve
  *
  * @package WordPress

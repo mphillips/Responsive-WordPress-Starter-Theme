@@ -4,7 +4,7 @@
  *
  * Used to display archive-type pages for posts by an author.
  *
- * Based on Wordpress' Twenty Twelve Theme
+ * Based on WordPress' Twenty Twelve Theme
  * https://wordpress.org/themes/twentytwelve
  *
  * @package WordPress
