@@ -1,0 +1,23 @@
+$light-text-color: #ccc;
+$danger-text-color: #ad0d36;
+
+$light-bg-color: whitesmoke;
+
+$font-size: 1em;
+$h1-font-size: 2em;
+
+$paragraph-margin-top: 1em;
+$paragraph-margin-bottom: 1em;
+
+$section-margin-top: 3em;
+$section-margin-bottom: 3em;
+
+@mixin paragraph-spacing {
+  margin-top: $paragraph-margin-top;
+  margin-bottom: $paragraph-margin-bottom;
+}
+
+@mixin section-spacing {
+  margin-top: $section-margin-top;
+  margin-bottom: $section-margin-bottom;
+}
