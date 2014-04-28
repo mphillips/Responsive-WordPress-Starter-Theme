@@ -4,7 +4,7 @@ This is responsive WordPress starter theme for developers. The goal is a theme t
 
 Built on top of the [Responsive](http://responsivebp.com) framework by James South.
 
-Based on Wordpress' [Twenty Twelve Theme](http://wordpress.org/themes/twentytwelve).
+Based on WordPress' [Twenty Twelve Theme](http://wordpress.org/themes/twentytwelve).
 
 ##Screenshot
 
