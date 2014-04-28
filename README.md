@@ -16,4 +16,4 @@ Please report bugs and make suggestions. :)
 
 ##License
 
-Licensed under the [MIT License](http://opensource.org/licenses/MIT)
+Licensed under the [MIT License](http://opensource.org/licenses/MIT).
