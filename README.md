@@ -14,6 +14,10 @@ Based on WordPress’ [Twenty Twelve Theme](http://wordpress.org/themes/twentytw
 
 Please report bugs and make suggestions. :)
 
+##Author
+
+[@errthling](https://twitter.com/errthling)
+
 ##License
 
 Licensed under the [MIT License](http://opensource.org/licenses/MIT).
